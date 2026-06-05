@@ -56,8 +56,4 @@ A collection of frontend and backend projects built to strengthen my development
 
 *"Learning, building, and growing one project at a time."*
 
-## 📊 GitHub Stats
 
-![Samruddhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samruddhi2402&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samruddhi2402&layout=compact)

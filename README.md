@@ -11,8 +11,8 @@ I'm a B.Tech Computer Engineering student passionate about software development,
 - **Programming Languages:** Python, JavaScript, PHP
 - **Web Development:** HTML, CSS, JavaScript
 - **Database:** MySQL
-- **Tools & Technologies:** Git, GitHub, VS Code
-- **Currently Learning:** React, Full-Stack Development, Data Structures & Algorithms
+- **Tools & Technologies:**  GitHub, VS Code
+- **Currently Learning:**  Full-Stack Development, Data Structures & Algorithms
 
 ---
 

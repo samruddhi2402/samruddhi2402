@@ -50,7 +50,7 @@ A collection of frontend and backend projects built to strengthen my development
 ## Connect With Me
 
 - GitHub: github.com/samruddhi2402
-- LinkedIn:https://www.linkedin.com/in/samruddhi-patil-965977368
+- LinkedIn:https://www.linkedin.com/in/samruddhi-patil-dev/
 
 ---
 
